@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "projectDAWeb"
+    }
+  },
+  "defaultProject": "projectDAWeb",
+  "cli": {
+    "analytics": false
+  }
 }
